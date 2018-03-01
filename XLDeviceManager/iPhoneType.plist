@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iPhone1,1</key>
+	<string>iPhone 2G</string>
+	<key>iPhone1,2</key>
+	<string>iPhone 3G</string>
+	<key>iPhone2,1</key>
+	<string>iPhone 3GS</string>
+	<key>iPhone3,1</key>
+	<string>iPhone 4</string>
+	<key>iPhone3,2</key>
+	<string>iPhone 4</string>
+	<key>iPhone3,3</key>
+	<string>iPhone 4</string>
+	<key>iPhone4,1</key>
+	<string>iPhone 4S</string>
+	<key>iPhone5,1</key>
+	<string>iPhone 5</string>
+	<key>iPhone5,2</key>
+	<string>iPhone 5</string>
+	<key>iPhone5,3</key>
+	<string>iPhone 5c</string>
+	<key>iPhone5,4</key>
+	<string>iPhone 5c</string>
+	<key>iPhone6,1</key>
+	<string>iPhone 5s</string>
+	<key>iPhone6,2</key>
+	<string>iPhone 5s</string>
+	<key>iPhone7,1</key>
+	<string>iPhone 6</string>
+	<key>iPhone7,2</key>
+	<string>iPhone 6s</string>
+	<key>iPhone8,1</key>
+	<string>iPhone 6s</string>
+	<key>iPhone8,2</key>
+	<string>iPhone 6s Plus</string>
+	<key>iPhone8,3</key>
+	<string>iPhone SE</string>
+	<key>iPhone8,4</key>
+	<string>iPhone SE</string>
+	<key>iPhone9,1</key>
+	<string>iPhone 7</string>
+	<key>iPhone9,2</key>
+	<string>iPhone 7 Plus</string>
+	<key>iPhone10,1</key>
+	<string>iPhone 8</string>
+	<key>iPhone10,2</key>
+	<string>iPhone 8</string>
+	<key>iPhone10,4</key>
+	<string>iPhone 8 Plus</string>
+	<key>iPhone10,5</key>
+	<string>iPhone 8 Plus</string>
+	<key>iPhone10,3</key>
+	<string>iPhone X</string>
+	<key>iPhone10,6</key>
+	<string>iPhone X</string>
+</dict>
+</plist>
